@@ -1,7 +1,8 @@
-# prova_tecnica_marcus
+# Prova Técnica - Elo Group
 
-> Prova Técnica - Elo Group
 > Framework utilizado: Vue.js
+
+
 ## Build Setup
 
 ``` bash
