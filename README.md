@@ -1,17 +1,18 @@
-# Prova Técnica - Elo Group
-## Marcus Vinicius Cardoso de Melo
+# prova_tecnica_marcus
 
+> Prova Técnica - Elo Group
 > Framework utilizado: Vue.js
-
 ## Build Setup
 
 ``` bash
-# Instalar dependências
+# install dependencies
 npm install
 
-# Executar
+# serve with hot reload at localhost:8080
 npm run dev
 
+# build for production with minification
+npm run build
 ```
 
-Mais instruções: [vue-loader](http://vuejs.github.io/vue-loader).
+For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
